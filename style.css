@@ -1,0 +1,14 @@
+
+#mc {
+    border: 10px solid rgb(255, 183, 0);
+    background-image: url("https://img.freepik.com/free-vector/top-view-car-park-lots-city-street-underground-garage-vector-background-empty-parking-with-white-yellow-lines-road-marking-black-asphalt-surface_107791-10233.jpg?w=360");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+body{
+    background-color: rgb(255, 227, 155);
+    color: white;
+    font-family: 'Courier New', Courier, monospace;
+}
